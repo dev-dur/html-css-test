@@ -1,6 +1,6 @@
 Logic Page
 
-A clean, responsive web page built using only HTML and CSS to test layout structure and styling logic. This project focuses on applying best practices in positioning, spacing, and content hierarchy without relying on external frameworks.
+A clean web page built using only HTML and CSS to test layout structure and styling logic. This project focuses on applying best practices in positioning, spacing, and content hierarchy without relying on external frameworks.
 
 🚀 Features
 - Clean and semantic HTML structure  
