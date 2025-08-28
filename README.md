@@ -8,18 +8,8 @@ A clean, responsive web page built using only HTML and CSS to test layout struct
 - Simple JavaScript file for interactivity or testing logic  
 - Easy to extend for future experiments  
 
-
-📂 Project Structure
-logic-page/
-│── index.html       # Main HTML file  
-│── styles.css       # CSS styles  
-│── script.js        # JavaScript logic
-│── bgi/             # Images
-└── README.md        # Project documentation  
-
 📖 Usage
-Clone the repository:
-    git clone https://github.com/yourusername/logic-page.git
+Clone the repository
 Open index.html in your browser.
 No extra setup required.
 
