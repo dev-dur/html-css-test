@@ -9,15 +9,15 @@ A clean, responsive web page built using only HTML and CSS to test layout struct
 - Easy to extend for future experiments  
 
 📖 Usage
-Clone the repository
-Open index.html in your browser.
-No extra setup required.
+- Clone the repository
+- Open index.html in your browser.
+- No extra setup required.
 
 🎯 Learning Goals
-Practice writing clean and semantic HTML.
-Improve CSS layout and positioning skills.
-Apply visual hierarchy principles (headings, spacing, typography).
-Build responsive layouts without frameworks.
+- Practice writing clean and semantic HTML.
+- Improve CSS layout and positioning skills.
+- Apply visual hierarchy principles (headings, spacing, typography).
+
 
 📸 Preview
 <img width="1553" height="871" alt="image" src="https://github.com/user-attachments/assets/f8be560f-a2cd-4536-a6c3-0561f766d31f" />
