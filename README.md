@@ -1,4 +1,4 @@
-Logic Page
+Login Page
 
 A clean web page built using only HTML and CSS to test layout structure and styling logic. This project focuses on applying best practices in positioning, spacing, and content hierarchy without relying on external frameworks.
 
